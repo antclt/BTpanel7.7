@@ -9,11 +9,7 @@
 
 * Github链接（若无法访问请重试或使用加速器）
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/DanKE123abc/BTpanel7.7/main/install_6.0_mod.sh && bash install.sh
-```
-* 彩虹云链接
-```bash
-wget -O install.sh http://f.cccyun.cc/bt/install_6.0.sh && bash install.sh
+wget -O install.sh https://raw.githubusercontent.com/antclt/BTpanel7.7/main/install_6.0_mod.sh && bash install.sh
 ```
 
 ### 宝塔面板7.7优化补丁
@@ -25,19 +21,6 @@ wget -O install.sh http://f.cccyun.cc/bt/install_6.0.sh && bash install.sh
 5. 关闭活动推荐与在线客服，去除首页企业版广告
 6. 去除自动校验文件与上报信息定时任务
 7. 去除面板日志与网站绑定域名上报
-
-* Github链接（若无法访问请重试或使用加速器）
-```bash
-wget -O optimize.sh https://raw.githubusercontent.com/DanKE123abc/BTpanel7.7/main/optimize_mod.sh && bash optimize.sh
-```
-* 如果Ngnix创建的网站出现403 forbidden(保留网站创建的文件，若无法访问请重试或使用加速器）
-```bash
-wget -O optimize.sh https://raw.githubusercontent.com/DanKE123abc/BTpanel7.7/main/optimize_mod_fixngnix.sh && bash optimize.sh
-```
-* 彩虹云链接
-```bash
-wget -O optimize.sh http://f.cccyun.cc/bt/optimize.sh && bash optimize.sh
-```
 
 ### 卸载宝塔面板
 
