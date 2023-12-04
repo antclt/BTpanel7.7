@@ -11,6 +11,10 @@
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/antclt/BTpanel7.7/main/install_6.0_mod.sh && bash install.sh
 ```
+* Github链接（宝塔开心7.7补丁）
+```bash
+curl -sSO https://raw.githubusercontent.com/antclt/bthappy/main/one_key_happy.sh && bash one_key_happy.sh
+```
 
 ### 宝塔面板7.7优化补丁
 
