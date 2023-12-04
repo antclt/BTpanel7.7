@@ -7,7 +7,7 @@
 2. 修复：兼容新版本面板运行环境、修复面板XSS高危漏洞。
 
 
-* Github链接（若无法访问请重试或使用加速器）
+* Github链接（宝塔安装7.7补丁）
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/antclt/BTpanel7.7/main/install_6.0_mod.sh && bash install.sh
 ```
