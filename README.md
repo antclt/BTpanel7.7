@@ -32,6 +32,6 @@ curl -sSO https://raw.githubusercontent.com/antclt/bthappy/main/one_key_happy.sh
 - Github链接（若无法访问请重试或使用加速器）
 
 ```shell
-wget -O bt-uninstall.sh https://raw.githubusercontent.com/DanKE123abc/BTpanel7.7/main/bt-uninstall.sh && bash bt-uninstall.sh
+wget -O bt-uninstall.sh https://raw.githubusercontent.com/antclt/BTpanel7.7/main/bt-uninstall.sh && bash bt-uninstall.sh
 ```
 
